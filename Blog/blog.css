@@ -1,0 +1,168 @@
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+    color: gray;
+	display: table;
+	width: 100%;
+    font-family: 'Montserrat', sans-serif;
+	letter-spacing: 10px;
+
+}
+
+nav li {
+	display: table-cell;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+li a:hover {
+	background-color: black;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+
+.btn active {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: yellow;
+    color: gray;
+	display: table;
+	width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.other {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+    color: white;
+	display: table;
+	width: 100%;
+    font-family: 'Montserrat', sans-serif;
+	display: table-cell;
+	display: block;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.card {
+	font-family: 'Oxygen', sans-serif;
+}
+
+.card a {
+	background-color: black;
+	color: white;
+	border-color: black;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.card-body {
+	background-color: #FFE9ED;
+}
+
+.card-body h4 {
+	color: black;
+	letter-spacing: 8px;
+}
+
+.card-body p {
+	color: gray;
+	letter-spacing: 5px;
+}
+
+.background-color1 {
+	background-color:#FFE9ED;
+}
+
+
+
+
+.h3-card {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	letter-spacing: 25px;
+}
+
+.featurette-heading {
+	letter-spacing: 20px;
+}
+
+
+
+footer {
+	font-size: small;
+	color: aliceblue;
+}
+
+
+
+.instagram-logo-top {
+	left: -40px;
+	position: relative;
+	top: -60px;
+}
+
+
+
+* {
+	box-sizing: border-box;
+ }
+ .imageColumn {
+	float: left;
+	width: 30%;
+	padding: 5px;
+	
+ }
+
+
+ p.lead {
+	 font-size: 17px;
+	 letter-spacing: 1px;
+ }
+
+
+ p.mb-0 {
+	 right: -30px;
+	 position: relative;
+	 font-size: 12px;
+ }
+
+ .blockquote-footer {
+	 right: -50px;
+	 position: relative;
+	 font-size: 10px;
+ }
+
+.background-color {
+	background-color: #FFE9ED;
+}
+
+
+
+
+btn.btn btn-secondary btn-lg {
+	position: relative;
+	right: -10px;
+}
